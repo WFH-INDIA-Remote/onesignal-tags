@@ -1,0 +1,16 @@
+{
+  "tags": [
+    {
+      "tag": "news",
+      "label": "Latest News"
+    },
+    {
+      "tag": "offers",
+      "label": "Special Offers"
+    },
+    {
+      "tag": "updates",
+      "label": "App Updates"
+    }
+  ]
+}
